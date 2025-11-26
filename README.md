@@ -4,8 +4,10 @@
 
 <div>
 <a href="https://github.com/Rodrigovs25">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rodrigovs25&layout=compact&langs_count=7&theme=dracula"/>
+<!--
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigovs25&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+-->
 
 ## Contatos:
 <div>
